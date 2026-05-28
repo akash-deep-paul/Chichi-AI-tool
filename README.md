@@ -6,6 +6,8 @@ The project was built using free Python libraries without paid APIs and works di
 
 ---
 
+Copyright © 2026 Akash Deep Paul
+
 ## Features
 
 - Voice command recognition
